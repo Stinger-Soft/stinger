@@ -1,6 +1,6 @@
 {
-    "name": "kodde/stinger",
-    "license": "proprietary",
+    "name": "stinger-soft/stinger",
+    "license": "Apache-2.0",
     "type": "project",
     "autoload": {
         "psr-0": {
@@ -8,6 +8,14 @@
             "SymfonyStandard": "app/"
         }
     },
+    "authors": [
+      {
+        "name": "Oliver Kotte",
+        "email": "oliver.kotte@stinger-soft.net",
+        "homepage": "http://dev.koddistortion.net",
+        "role": "Developer"
+      }
+    ],
     "require": {
         "php": ">=5.3.3",
         "symfony/symfony": "~2.7@beta",
