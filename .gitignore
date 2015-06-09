@@ -38,3 +38,6 @@
 
 composer.lock
 symfony.phar
+
+# IDE specific stuff
+/.idea/*
