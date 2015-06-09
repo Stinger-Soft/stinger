@@ -2,6 +2,13 @@
 	"name": "stinger-soft/stinger",
 	"license": "Apache-2.0",
 	"type": "project",
+	"description": "Symfony based web application for organizing and enjoying your music on the web",
+	"keywords": [
+		"Platform",
+		"Music",
+		"Web",
+		"Symfony"
+	],
 	"autoload": {
 		"psr-4": {
 			"": "src/",
